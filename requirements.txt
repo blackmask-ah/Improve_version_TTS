@@ -1,0 +1,7 @@
+streamlit==1.26.0
+TTS==0.22.0
+torch>=1.10.0
+torchaudio
+numpy
+soundfile
+scipy
